@@ -1,29 +1,21 @@
-White Paper
-============
+## HCZ Material theme
 
-White Paper is a jekyll theme for tech blogs. It is clean and simple with good semantic
-structure.
+This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-![white-paper image](https://cldup.com/ARj6_UCaWO.png)
+### Demo
+* [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
 
-## Usage:
+#### Feature
 
-- Fork the project.
-- Change the fields in _config.yml.
-```
-name: White Paper <-- Change the name to the title you want.
-url: http://foobar.com <-- This must be changed to your website url, so if 
-it is http://foobar.com, set it to foobar.com
-```
-- Change the links in header.html.
-```
-<!-- change the below link to where you want them to point to. -->
-<li><a href="/white-paper"><span class="mega-octicon octicon-terminal" style="margin-right: 6px;"></span>White Paper</a></li>
-<li><a href="/white-paper/about"><span class="mega-octicon octicon-person" style="margin-right: 6px;"></span>About</a></li>
-```
+* Sitemap and XML Feed
+* Projects and tags
+* Paginations in homepage
+* Posts under category
+* Related Posts
+* Highlight pre
+* Next & Previous Post
+* Disqus comment
 
-Test the website live while editing the code:
+#### Screenshot
 
-## Issues:
-
-Report issues or feature request [here](https://github.com/vinitkumar/white-paper/issues).
+![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
