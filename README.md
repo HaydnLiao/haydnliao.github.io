@@ -1,21 +1,27 @@
-## HCZ Material theme
+# jekyll-theme-hackcss
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+[Dead simple CSS framework](http://hackcss.com/) now with Jekyll.
 
-### Demo
-* [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
+Mobile-ready, modern, stylish, simple.
 
-#### Feature
+## Theme modes
 
-* Sitemap and XML Feed
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+This theme comes in three modes, which could be configured in `_config.yml`.
 
-#### Screenshot
+![Standard](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/standard.png)
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+![Dark](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/dark.png)
+
+![Markdown](https://raw.githubusercontent.com/wemake-services/jekyll-theme-hackcss/3cbe97b71a56a19eba386dd928e125b71e50c71e/images/markdown.png)
+
+## Installation
+
+Clone this repo. Create your own website. Easy.
+
+## Configuration
+
+See [docs](https://github.com/wemake-services/jekyll-theme-hackcss/blob/master/docs.md).
+
+## License
+
+GNU PGL 3. See [LICENSE](https://github.com/wemake-services/jekyll-theme-hackcss/blob/3cbe97b71a56a19eba386dd928e125b71e50c71e/LICENSE) for more information.
